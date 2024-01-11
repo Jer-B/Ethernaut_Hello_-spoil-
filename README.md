@@ -20,7 +20,7 @@ It is an introductory level, helping you set up for the upcoming levels and givi
 
 <br/>
 <p align="center">
-<img src="./images/hello.png" width="225" alt="Ethernaut Hello">
+<img src="./images/hello.png" width="550" alt="Ethernaut Hello">
 </p>
 <br/>
 
