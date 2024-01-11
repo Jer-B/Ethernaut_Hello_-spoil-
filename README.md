@@ -69,7 +69,7 @@ Level is completed, and the explanation page disappear and shows the contract wi
 
 <br/>
 <p align="center">
-<img src="./images/complete.png" width="225" alt="Ethernaut Hello completed">
+<img src="./images/complete.png" width="700" alt="Ethernaut Hello completed">
 </p>
 <br/>
 
