@@ -2,7 +2,7 @@
 # English README　[Jump to Japanese Version](#japanese)
 
 # Ethernaut Solutions
-- The Ethernaut is a Web3/Solidity-based coding wargame inspired by overthewire.org, played in the Ethereum Virtual Machine. 
+- The Ethernaut is a Web3/Solidity-based coding wargame, played in the Ethereum Virtual Machine. 
 - Each level is a smart contract that needs to be 'hacked'.
 
 Here are the writeups of my solutions levels I cleared. 
@@ -77,7 +77,7 @@ Level is completed, and the explanation page disappear and shows the contract wi
 # 日本語版のREADME
 
 # Ethernautの解決策
-- Ethernautは、overthewire.orgに触発されたWeb3/Solidityベースのコーディングウォーゲームで、Ethereum仮想マシンでプレイされます。
+- Ethernautは、Web3/Solidityベースのコーディングウォーゲームで、Ethereum Virtual Machine (EVM) でプレイされます。
 - 各レベルはハッキングする必要があるスマートコントラクトです。
 
 これはクリアしたレベルの解決策です。
